@@ -30,7 +30,7 @@ form.addEventListener('submit', (evento) => {
 });
 
 function criaElemento(item) {
-
+    
     const novoItem = document.createElement('li');
     novoItem.classList.add('item');
 
